@@ -1,4 +1,6 @@
-Tetris Game
+Ray-Tetris
+![image](https://github.com/user-attachments/assets/efc9c649-cf54-4a3c-885d-6b1d8a3cf232)
+
 This is a Tetris game implementation written in C++ using the Raylib library. The project was developed in 2023, inspired by tutorials from ProgrammingwithNick on YouTube. The code has been structured into multiple files for better organization, and a CMake build system is included to compile the project.
 Project Structure
 
